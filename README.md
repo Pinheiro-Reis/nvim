@@ -1,10 +1,8 @@
-To install:
+From LazyVim webpage -> To install:
 
 1. Backup actual files
-# required
 mv ~/.config/nvim{,.bak}
 
-# optional but recommended
 mv ~/.local/share/nvim{,.bak}
 mv ~/.local/state/nvim{,.bak}
 mv ~/.cache/nvim{,.bak}
