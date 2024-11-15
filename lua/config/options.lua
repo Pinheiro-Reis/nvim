@@ -4,3 +4,6 @@
 
 -- [Enumeration]
 vim.opt.relativenumber = false -- Relative line numbers
+
+-- [Lines]
+vim.opt.wrap = true -- disable line wrapping
